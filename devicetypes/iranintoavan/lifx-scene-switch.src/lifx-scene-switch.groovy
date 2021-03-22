@@ -3,7 +3,7 @@
  *
  * Copyright 2016 Eric Vitale
  *
- * Version 1.0.4 - Changed by iranintoavan. Changed from button to momentary switch. (03/22/2021)
+ * Version 1.0.4 - Changed by iranintoavan. Changed from button to momentary switch. Still have issues where it won't show up in automation. Not sure why. (03/22/2021)
  * Version 1.0.3 - Fix to support the new SmartThings app. (08/20/2018)
  * Version 1.0.2 - Added the switch capability in order to use this device with Alexa (10/3/2017)
  * Version 1.0.1 - Converted to Async API (06/21/2017)
