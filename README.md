@@ -10,7 +10,7 @@ On / Off of LIFX Scene
 2. Click on the "My Device Handlers" section in the navigation bar.
 3. Click on "Settings".
 4. At the bottom of the popup window, click "Add New Repository".
-5. Enter "iranintoavan" as the namespace.
+5. Enter "yenba" as the namespace.
 6. Enter "LIFX-Scene-Switch" as the repository.
 7. Ensure that the branch is set to "master", it should be this way by default.
 8. Hit "Save".
